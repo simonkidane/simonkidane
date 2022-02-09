@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonkidane
 - 👀 I’m interested in ... SWE and PM roles
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... https://www.linkedin.com/in/simonkidane/ or skidane@nevada.unr.edu
 
 <!---
